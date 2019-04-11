@@ -1,10 +1,11 @@
 {
-  "address": "your-site-address",
+  "address": "1z86z5jCaCQpgabfbQFJTLcKBLJdTtGYD",
 
-  "title": "ZeroTemplate",
-  "description": "Template for creating and developing ZeroNet sites",
+  "title": "Zero86",
+  "description": "Decentralized x86 virtualization in ZeroNet",
 
-  "background-color": "#FFFFFF",
+  "background-color": "#F2F4F6",
+  "background-color-dark": "#383F46",
 
   "viewport": "width=device-width, initial-scale=0.8",
   "favicon": "favicon.ico",
@@ -15,7 +16,7 @@
   "inner_path": "content.json",
 
   "postmessage_nonce_security": true,
-  "signers_sign": "your-site-signers",
+  "signers_sign": "HKvoSTxi/Rza0H2yVPmyZJAIFd9DcmTVTZtegNk9GYI7R9N6PSg3bmNyERESDNVrbXGBlnrbx7oZ/k78HlC915A=",
   "signs_required": 1,
 
   "zeronet_version": "0.6.5"
